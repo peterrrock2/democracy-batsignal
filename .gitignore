@@ -1,7 +1,10 @@
+# Note instructions at the bottom of the file take priority over
+# instructions at the top of the file.
 *
 
 .venv
 dev_files
+
 
 !.gitignore
 !template_maker.ps1
@@ -10,5 +13,8 @@ dev_files
 
 !my_project/
 !my_project/**
+
+# Re-ignore generated parquet outputs 
+my_project/stats/**/*.parquet
 
 
