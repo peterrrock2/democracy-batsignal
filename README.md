@@ -1,5 +1,9 @@
 # Democracy Batsignal
 
+
+boooooooo
+
+
 More information coming soon!
 
 The template scripts in this repo set up the projects with a structure that parallels
